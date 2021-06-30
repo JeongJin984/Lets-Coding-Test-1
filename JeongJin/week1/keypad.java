@@ -1,3 +1,4 @@
+package week1;
 class Solution {
     
     int[][] position = {
