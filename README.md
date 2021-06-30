@@ -36,15 +36,13 @@ ___
 ## **Schedule**
 
 - **1주차(2021-06-30)**
-  - Programmers: KAKAO 어쩌구 저쩌구
-  - Programmers: KAKAO 어쩌구 저쩌구
-  - Programmers: KAKAO 어쩌구 저쩌구
-  - Programmers: KAKAO 어쩌구 저쩌구
-  - Programmers: KAKAO 어쩌구 저쩌구
-  - Programmers: KAKAO 어쩌구 저쩌구
-  - Programmers: KAKAO 어쩌구 저쩌구
+  - Programmers: 2020 카카오 인턴쉽 - 키패드 누르기
+  - Programmers: 2019 카카오 개발자 겨울 인턴쉽 - 크레인 인형뽑기 게임
+  - Programmers: 2020 KAKAO BLIND RECRUITMENT - 문자열 압축
 - **2주차(2016-06-05)**
-  - 어쩌구 저쩌구
+  - 백준 1158번 - 요세푸스 문제
+  - 백준 1874번 - 스택 수열
+  - 백준 3190번 - 뱀
 
 
 
