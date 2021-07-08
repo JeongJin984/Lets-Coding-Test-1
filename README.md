@@ -57,4 +57,4 @@
   - Programmers: 2019 KAKAO BLIND RECRUITMENT - 실패율
   - 백준 1158번 - 요세푸스 문제
   - 백준 1874번 - 스택 수열
-  - 백준 3190번 - 뱀ZZ
+  - 백준 3190번 - 뱀
