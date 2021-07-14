@@ -65,7 +65,7 @@
   - 백준: **1106번** - 호텔
   - 백준: **17070번** - 파이프 옮기기1
   - Programmers: **2021 Dev-Matching: 웹 백엔드 개발자(상반기)** - 다단계 칫솔 판매
-  - Programmers: **2021 KAKAO BLIND RECRUITMENT**: 신규 아이디 추천
+  - Programmers: **2021 KAKAO BLIND RECRUITMENT** - 신규 아이디 추천
 
 
 
